@@ -19,7 +19,7 @@ The **Employee Data Management System** is a **Database Management System (DBMS)
 
 💡 **Contributions & Suggestions are welcome!**
 
-👨‍💻 Developed by [Your Name]
+
 
 
 
